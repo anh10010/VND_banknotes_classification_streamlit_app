@@ -5,7 +5,7 @@ Name: Nguyen Duc Anh
 Job: Machine Learning
 
 About project: Classify the VietNamDong banknotes which are still used until 2021. There are 9 denominations given for prediction: 1k, 2k, 5k, 10k, 20k, 50k, 100k, 200k, 500k.
-The model used is DenseNet169 with the best score found is accuracy = 0.93.
+The model used is DenseNet169 with the best score found is accuracy = 87%.
 Before you continue, ensure you meet the following requirements:
 
 * Python 3.9.5 
